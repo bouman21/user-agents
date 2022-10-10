@@ -1,0 +1,382 @@
+[
+  {
+    "version": "Pod2C1 ",
+    "label": "iPod Touch 2"
+  },
+  {
+    "version": "iPod3C1 ",
+    "label": "iPod Touch 3"
+  },
+  {
+    "version": "iPod4C1 ",
+    "label": "iPod Touch 4"
+  },
+  {
+    "version": "iPod5C1 ",
+    "label": "iPod Touch 5"
+  },
+  {
+    "version": "iPad1C1 ",
+    "label": "iPad "
+  },
+  {
+    "version": "iPad2C1 ",
+    "label": "iPad 2 WIFI "
+  },
+  {
+    "version": "iPad2C2 ",
+    "label": "iPad 2 WIFI + 3G "
+  },
+  {
+    "version": "iPad2C3 ",
+    "label": "iPad 2 WIFI + 3G CDMA "
+  },
+  {
+    "version": "iPad2C4 ",
+    "label": "iPad Mini - WIFI "
+  },
+  {
+    "version": "iPad2C5 ",
+    "label": "iPad Mini - WIFI + LTE"
+  },
+  {
+    "version": "iPad3C1 ",
+    "label": "The New iPad (iPad 3)- WIFI"
+  },
+  {
+    "version": "iPad3C2 ",
+    "label": "The New iPad (iPad 3) - WIFI + LTE "
+  },
+  {
+    "version": "iPad3C3 ",
+    "label": "iPad with Retina Display (iPad 4) - WIFI "
+  },
+  {
+    "version": "iPad3C4 ",
+    "label": "iPad with Retina Display (iPad 4) - WIFI + LTE  "
+  },
+  {
+    "version": "iPad4C1 ",
+    "label": "iPad Air - WIFI "
+  },
+  {
+    "version": "iPad4C2 ",
+    "label": "iPad Air - WIFI + LTE "
+  },
+  {
+    "version": "iPad4C4 ",
+    "label": "iPad Mini with Retina Display - WIFI"
+  },
+  {
+    "version": "iPad4C5 ",
+    "label": "iPad Mini with Retina Display - WIFI + LTE"
+  },
+  {
+    "version": "iPad4C7 ",
+    "label": "iPad Mini 3 WIFI"
+  },
+  {
+    "version": "iPad4C8 ",
+    "label": "iPad Mini 3 WIFI+LTE"
+  },
+  {
+    "version": "iPad5C1 ",
+    "label": "iPad Mini 4 - WIFI"
+  },
+  {
+    "version": "iPad5C2 ",
+    "label": "iPad Mini 4 - WIFI + LTE"
+  },
+  {
+    "version": "iPad5C3 ",
+    "label": "iPad Air 2 - WIFI"
+  },
+  {
+    "version": "iPad5C4 ",
+    "label": "iPad Air 2 = WIFI + LTE"
+  },
+  {
+    "version": "iPad6C3 ",
+    "label": "iPad Pro (9.7\") - WIFI"
+  },
+  {
+    "version": "iPad6C4 ",
+    "label": "iPad Pro (9.7\") - WIFI + LTE"
+  },
+  {
+    "version": "iPad6C7 ",
+    "label": "iPad Pro (12.9\") - WIFI"
+  },
+  {
+    "version": "iPad6C8 ",
+    "label": "iPad Pro (12.9\") - WIFI + LTE"
+  },
+  {
+    "version": "iPad6C11 ",
+    "label": "iPad 5th Gen"
+  },
+  {
+    "version": "iPad6C12 ",
+    "label": "iPad (9.7\") 2017 - WIFI"
+  },
+  {
+    "version": "iPad7C1 ",
+    "label": "iPad Pro (12.9\") WIFI 2nd Gen"
+  },
+  {
+    "version": "iPad7C2 ",
+    "label": "iPad Pro (12.9\") WIFI + LTE 2nd Gen"
+  },
+  {
+    "version": "iPad7C3 ",
+    "label": "iPad Pro (10.5\") WIFI 2nd Gen"
+  },
+  {
+    "version": "iPad7C4 ",
+    "label": "iPad Pro (10.5\") WIFI + LTE 2nd Gen"
+  },
+  {
+    "version": "iPad7C5 ",
+    "label": "iPad 6th Gen"
+  },
+  {
+    "version": "iPad7C6 ",
+    "label": "iPad 6th Gen"
+  },
+  {
+    "version": "iPad7C11 ",
+    "label": "iPad (10.2\") 7th Gen WIFI"
+  },
+  {
+    "version": "iPad7C12 ",
+    "label": "iPad (10.2\") 7th Gen WIFI+LTE"
+  },
+  {
+    "version": "iPad8C1 ",
+    "label": "iPad Pro (11\")"
+  },
+  {
+    "version": "iPad8C2 ",
+    "label": "iPad Pro (11\")"
+  },
+  {
+    "version": "iPad8C3 ",
+    "label": "iPad Pro (11\")"
+  },
+  {
+    "version": "iPad8C4 ",
+    "label": "iPad Pro (11\")"
+  },
+  {
+    "version": "iPad8C5 ",
+    "label": "iPad Pro (12.9\") 3rd gen"
+  },
+  {
+    "version": "iPad8C6 ",
+    "label": "iPad Pro (12.9\") 3rd gen"
+  },
+  {
+    "version": "iPad8C7 ",
+    "label": "iPad Pro (12.9\") 3rd gen"
+  },
+  {
+    "version": "iPad8C8 ",
+    "label": "iPad Pro (12.9\") 3rd gen"
+  },
+  {
+    "version": "iPad8C11 ",
+    "label": "iPad Pro - Wi-Fi 12.9\", 4th gen"
+  },
+  {
+    "version": "iPad8C12 ",
+    "label": "iPad Pro - Wi-Fi + Cellular 12.9\", 4th Gen"
+  },
+  {
+    "version": "iPad11C1 ",
+    "label": "iPad Mini 5"
+  },
+  {
+    "version": "iPad11C2 ",
+    "label": "iPad Mini 5"
+  },
+  {
+    "version": "iPad11C3 ",
+    "label": "iPad Air 3rd gen"
+  },
+  {
+    "version": "iPad11C4 ",
+    "label": "iPad Air 3rd gen"
+  },
+  {
+    "version": "iPad11C7 ",
+    "label": "iPad - WIFI+LTE 10.2\", 8th Gen"
+  },
+  {
+    "version": "iPhone1C2 ",
+    "label": "iPhone 3G "
+  },
+  {
+    "version": "iPhone2C1 ",
+    "label": "iPhone 3GS"
+  },
+  {
+    "version": "iPhone3C1 ",
+    "label": "iPhone 4 GSM"
+  },
+  {
+    "version": "iPhone3C2 ",
+    "label": "iPhone4 GSM"
+  },
+  {
+    "version": "iPhone3C3 ",
+    "label": "iPhone 4 CDMA"
+  },
+  {
+    "version": "iPhone4C1 ",
+    "label": "iPhone 4S"
+  },
+  {
+    "version": "iPhone5C1 ",
+    "label": "iPhone 5 GSM/LTE"
+  },
+  {
+    "version": "iPhone5C2 ",
+    "label": "iPhone 5 CDMA USA/China "
+  },
+  {
+    "version": "iPhone5C3 ",
+    "label": "iPhone 5C GSM/CDMA/Americas"
+  },
+  {
+    "version": "iPhone5C4 ",
+    "label": "iPhone 5C Europe/Asia"
+  },
+  {
+    "version": "iPhone6C1 ",
+    "label": "iPhone 5S GSM/CDMA/Americas"
+  },
+  {
+    "version": "iPhone6C2 ",
+    "label": "iPhone 5S Europe/Asia"
+  },
+  {
+    "version": "iPhone7C1 ",
+    "label": "iPhone 6 Plus"
+  },
+  {
+    "version": "iPhone7C2 ",
+    "label": "iPhone 6"
+  },
+  {
+    "version": "iPhone8C1 ",
+    "label": "iPhone 6S"
+  },
+  {
+    "version": "iPhone8C2 ",
+    "label": "iPhone 6S Plus"
+  },
+  {
+    "version": "iPhone8C4 ",
+    "label": "iPhone SE"
+  },
+  {
+    "version": "iPhone9C1 ",
+    "label": "iPhone 7"
+  },
+  {
+    "version": "iPhone9C2 ",
+    "label": "iPhone 7 Plus"
+  },
+  {
+    "version": "iPhone9C3 ",
+    "label": "iPhone 7"
+  },
+  {
+    "version": "iPhone9C4 ",
+    "label": "iPhone 7 Plus  "
+  },
+  {
+    "version": "iPhone10C1 ",
+    "label": "iPhone 8"
+  },
+  {
+    "version": "iPhone10C2 ",
+    "label": "iPhone 8 Plus "
+  },
+  {
+    "version": "iPhone10C3 ",
+    "label": "iPhone X "
+  },
+  {
+    "version": "iPhone10C4 ",
+    "label": "iPhone 8 "
+  },
+  {
+    "version": "iPhone10C5 ",
+    "label": "iPhone 8 Plus "
+  },
+  {
+    "version": "iPhone10C6 ",
+    "label": "iPhone X"
+  },
+  {
+    "version": "iPhone11C2 ",
+    "label": "iPhone XS"
+  },
+  {
+    "version": "iPhone11C6 ",
+    "label": "iPhone XS Max"
+  },
+  {
+    "version": "iphone11C8 ",
+    "label": "iPhone XR"
+  },
+  {
+    "version": "iphone12C1 ",
+    "label": "iPhone 11"
+  },
+  {
+    "version": "iphone12C3 ",
+    "label": "iPhone 11 Pro"
+  },
+  {
+    "version": "iPhone12C5 ",
+    "label": "iPhone 11 Pro Max"
+  },
+  {
+    "version": "iPhone12C8 ",
+    "label": "iPhone SE (Second Generation)"
+  },
+  {
+    "version": "iPhone13C1 ",
+    "label": "iPhone 12 Mini"
+  },
+  {
+    "version": "iPhone13C2 ",
+    "label": "iPhone 12 "
+  },
+  {
+    "version": "iPhone13C3 ",
+    "label": "iPhone 12 Pro"
+  },
+  {
+    "version": "iPhone13C5 ",
+    "label": "iPhone 12 Pro Max"
+  },
+  {
+    "version": "iPhone14C2 ",
+    "label": "iPhone 13 Pro"
+  },
+  {
+    "version": "iPhone14C3 ",
+    "label": "iPhone 13 Pro Max"
+  },
+  {
+    "version": "iPhone14C4 ",
+    "label": "iPhone 13 Mini"
+  },
+  {
+    "version": "iPhone14C5 ",
+    "label": "iPhone 13"
+  }
+]
